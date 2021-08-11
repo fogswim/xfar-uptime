@@ -1,5 +1,5 @@
 owner: FogSwim # GitHub username
-repo: xfar-uptime # GitHub repository name
+repo: xfar-uptime # GitHub repository name goes here
 sites: # List of endpoints to track
   - name: FogSwim
     url: https://www.fogswim.com/
