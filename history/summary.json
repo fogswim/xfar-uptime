@@ -2,7 +2,7 @@
   {
     "name": "FogSwim",
     "url": "https://www.fogswim.com/",
-    "icon": "https://favicons.githubusercontent.com/www.fogswim.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.fogswim.com.ico",
     "slug": "fog-swim",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 316,
-    "timeDay": 407,
-    "timeWeek": 312,
+    "time": 315,
+    "timeDay": 218,
+    "timeWeek": 309,
     "timeMonth": 291,
-    "timeYear": 317,
+    "timeYear": 316,
     "dailyMinutesDown": {}
   }
 ]
