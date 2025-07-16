@@ -4,18 +4,19 @@
     "url": "https://www.fogswim.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.fogswim.com.ico",
     "slug": "fog-swim",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.99%",
     "time": 416,
-    "timeDay": 10853,
-    "timeWeek": 4380,
-    "timeMonth": 1550,
+    "timeDay": 7347,
+    "timeWeek": 4013,
+    "timeMonth": 1514,
     "timeYear": 423,
     "dailyMinutesDown": {
+      "2025-07-16": 31,
       "2025-07-14": 18
     }
   }
