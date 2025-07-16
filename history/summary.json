@@ -6,14 +6,14 @@
     "slug": "fog-swim",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.74%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 374,
-    "timeDay": 6869,
+    "timeDay": 316,
     "timeWeek": 2490,
-    "timeMonth": 931,
+    "timeMonth": 930,
     "timeYear": 366,
     "dailyMinutesDown": {
       "2025-07-14": 18
